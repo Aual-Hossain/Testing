@@ -1,2 +1,3 @@
 this is write.txt file
 I added some another text.
+kichu akta add korlam
